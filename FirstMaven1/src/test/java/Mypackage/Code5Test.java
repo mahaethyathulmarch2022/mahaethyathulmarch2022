@@ -6,7 +6,7 @@ public class Code5Test {
 	@Test(groups={"Smoke"})
 		public static void mysample2() {
 		// TODO Auto-generated method stub
-		System.out.println("Hello2");
+		System.out.println("sampleedit after git Hello223");
 	}
 	@Test
 	public static void mysample2_1() {

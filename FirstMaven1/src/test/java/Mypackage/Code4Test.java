@@ -8,7 +8,7 @@ public class Code4Test {
 	@Test(groups={"Smoke"})
 		public static void mysample1() {
 		// TODO Auto-generated method stub
-		System.out.println("Hello1");
+		System.out.println("sampleedit after git Hello123");
 	}
 
 		@Test

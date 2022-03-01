@@ -2,29 +2,29 @@
 <testng-results ignored="3" total="6" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-01T21:15:12 SGT" name="SampleRegression" finished-at="2022-03-01T21:15:12 SGT" duration-ms="39">
+  <suite started-at="2022-03-01T22:22:31 SGT" name="SampleRegression" finished-at="2022-03-01T22:22:31 SGT" duration-ms="37">
     <groups>
       <group name="Smoke">
-        <method signature="Code4Test.mysample1()[pri:0, instance:Mypackage.Code4Test@6a28ffa4]" name="mysample1" class="Mypackage.Code4Test"/>
-        <method signature="Code5Test.mysample2()[pri:0, instance:Mypackage.Code5Test@7a69b07]" name="mysample2" class="Mypackage.Code5Test"/>
-        <method signature="Code6Test.mysample3()[pri:0, instance:Mypackage.Code6Test@5e82df6a]" name="mysample3" class="Mypackage.Code6Test"/>
+        <method signature="Code4Test.mysample1()[pri:0, instance:Mypackage.Code4Test@21e360a]" name="mysample1" class="Mypackage.Code4Test"/>
+        <method signature="Code5Test.mysample2()[pri:0, instance:Mypackage.Code5Test@7c711375]" name="mysample2" class="Mypackage.Code5Test"/>
+        <method signature="Code6Test.mysample3()[pri:0, instance:Mypackage.Code6Test@57cf54e1]" name="mysample3" class="Mypackage.Code6Test"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2022-03-01T21:15:12 SGT" name="smknewTest" finished-at="2022-03-01T21:15:12 SGT" duration-ms="39">
+    <test started-at="2022-03-01T22:22:31 SGT" name="smknewTest" finished-at="2022-03-01T22:22:31 SGT" duration-ms="37">
       <class name="Mypackage.Code6Test">
-        <test-method signature="mysample3()[pri:0, instance:Mypackage.Code6Test@5e82df6a]" started-at="2022-03-01T21:15:12 SGT" name="mysample3" finished-at="2022-03-01T21:15:12 SGT" duration-ms="0" status="PASS">
+        <test-method signature="mysample3()[pri:0, instance:Mypackage.Code6Test@57cf54e1]" started-at="2022-03-01T22:22:31 SGT" name="mysample3" finished-at="2022-03-01T22:22:31 SGT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mysample3 -->
       </class> <!-- Mypackage.Code6Test -->
       <class name="Mypackage.Code4Test">
-        <test-method signature="mysample1()[pri:0, instance:Mypackage.Code4Test@6a28ffa4]" started-at="2022-03-01T21:15:12 SGT" name="mysample1" finished-at="2022-03-01T21:15:12 SGT" duration-ms="6" status="PASS">
+        <test-method signature="mysample1()[pri:0, instance:Mypackage.Code4Test@21e360a]" started-at="2022-03-01T22:22:31 SGT" name="mysample1" finished-at="2022-03-01T22:22:31 SGT" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mysample1 -->
       </class> <!-- Mypackage.Code4Test -->
       <class name="Mypackage.Code5Test">
-        <test-method signature="mysample2()[pri:0, instance:Mypackage.Code5Test@7a69b07]" started-at="2022-03-01T21:15:12 SGT" name="mysample2" finished-at="2022-03-01T21:15:12 SGT" duration-ms="0" status="PASS">
+        <test-method signature="mysample2()[pri:0, instance:Mypackage.Code5Test@7c711375]" started-at="2022-03-01T22:22:31 SGT" name="mysample2" finished-at="2022-03-01T22:22:31 SGT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mysample2 -->
