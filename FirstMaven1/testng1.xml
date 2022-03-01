@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SampleRegression">
+
+
+  <test thread-count="2" name="smknewTest">
+
+
+<groups>
+<run>
+<include name="Smoke"/>
+</run>
+</groups>
+
+     <classes>
+      <class name="Mypackage.Code4Test"/>
+  <class name="Mypackage.Code5Test"/>
+  <class name="Mypackage.Code6Test"/>
+	   
+ </classes>
+</test>
+
+</suite> <!-- Suite -->
